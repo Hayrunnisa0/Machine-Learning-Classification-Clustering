@@ -1,0 +1,5 @@
+dataset,seed,representation,train_n,test_n,n_clusters,test_cluster_counts,test_ARI,test_silhouette,valid_silhouette
+breast_cancer,42,raw,398,114,2,0:86;1:28,0.5584884553059529,0.711999045794349,True
+breast_cancer,42,scaled,398,114,2,0:74;1:40,0.7353808445227874,0.3250621931086193,True
+wine,42,raw,124,36,3,0:14;1:10;2:12,0.3733228463033219,0.4928800000174204,True
+wine,42,scaled,124,36,3,0:13;1:13;2:10,0.9087939960390535,0.27111968980089896,True

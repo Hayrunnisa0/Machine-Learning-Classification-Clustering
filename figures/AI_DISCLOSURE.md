@@ -1,0 +1,3 @@
+# AI Disclosure
+
+AI assistance (OpenAI ChatGPT) was used to help organize and generate the Python notebook code, statistical reporting, documentation, and Word report. Computations were executed with the pinned local Python/scikit-learn environment and the publicly available datasets. The submitter should independently review the code, verify the generated tables and figures, and disclose this assistance according to course rules. No external images were copied into the results figures; plots were generated programmatically from dataset features and predictions. A GitHub repository URL was not supplied and must be added by the submitter before submission.
